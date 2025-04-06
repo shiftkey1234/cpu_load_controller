@@ -26,7 +26,7 @@ GUI를 통해 실시간 CPU 사용량과 프로세스 개수를 확인하고, �
 
 ## 스크린샷
 
-![CPU Load Controller](doc/screenshot.png){ width=200px }
+![CPU Load Controller](doc/screenshot.png)
 
 ## 설치 (Installation)
 Python 3.8 이상 사용을 권장합니다.
