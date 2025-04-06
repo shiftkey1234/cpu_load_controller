@@ -26,10 +26,7 @@ GUI를 통해 실시간 CPU 사용량과 프로세스 개수를 확인하고, �
 
 ## 스크린샷
 
-아래는 프로그램 실행 예시 스크린샷을 넣을 수 있는 구간입니다.  
-(직접 이미지를 찍은 후 `docs/screenshot.png` 경로나 원하는 이미지 경로로 추가하세요.)
-
-![CPU Load Controller](doc/screenshot.png)
+![CPU Load Controller](doc/screenshot.png){ width=200px }
 
 ## 설치 (Installation)
 Python 3.8 이상 사용을 권장합니다.
